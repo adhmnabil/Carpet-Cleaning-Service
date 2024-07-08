@@ -1,0 +1,14 @@
+E:\carpetProject\carpetProject\bin\Debug\net8.0\carpetProject.exe
+E:\carpetProject\carpetProject\bin\Debug\net8.0\carpetProject.deps.json
+E:\carpetProject\carpetProject\bin\Debug\net8.0\carpetProject.runtimeconfig.json
+E:\carpetProject\carpetProject\bin\Debug\net8.0\carpetProject.dll
+E:\carpetProject\carpetProject\bin\Debug\net8.0\carpetProject.pdb
+E:\carpetProject\carpetProject\obj\Debug\net8.0\carpetProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\carpetProject\carpetProject\obj\Debug\net8.0\carpetProject.AssemblyInfoInputs.cache
+E:\carpetProject\carpetProject\obj\Debug\net8.0\carpetProject.AssemblyInfo.cs
+E:\carpetProject\carpetProject\obj\Debug\net8.0\carpetProject.csproj.CoreCompileInputs.cache
+E:\carpetProject\carpetProject\obj\Debug\net8.0\carpetProject.dll
+E:\carpetProject\carpetProject\obj\Debug\net8.0\refint\carpetProject.dll
+E:\carpetProject\carpetProject\obj\Debug\net8.0\carpetProject.pdb
+E:\carpetProject\carpetProject\obj\Debug\net8.0\carpetProject.genruntimeconfig.cache
+E:\carpetProject\carpetProject\obj\Debug\net8.0\ref\carpetProject.dll
